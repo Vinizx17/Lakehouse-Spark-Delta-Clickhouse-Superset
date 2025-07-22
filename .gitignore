@@ -1,0 +1,6 @@
+# Ignorar arquivo de variáveis de ambiente
+.env
+
+# Ignorar pasta jupyter (configurações, scripts, etc)
+jupyter/
+
