@@ -42,6 +42,8 @@ Na pasta data esta disponivel o csv
 
 Criar bucket landing e staging no Minio
 
+Criar acess_key no Minio
+
 Adicionar o csv no bucket landing
 
 Executar código python dos notebooks Pyspar_delta e clickhouse
